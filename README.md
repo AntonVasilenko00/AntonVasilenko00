@@ -20,7 +20,7 @@
 
 <details open>
   
-<summary>Projects: </summary>
+<summary>💼Projects: </summary>
   
   - ⚛️*React:*
     * ***Image Gallery*** - [Website](https://antonvasilenko00.github.io/react-tailwind-img-gallery/) - [Github Repository](https://github.com/AntonVasilenko00/react-tailwind-img-gallery)
