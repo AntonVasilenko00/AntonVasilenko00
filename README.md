@@ -23,6 +23,7 @@
 <summary>💼Projects: </summary>
   
   - ⚛️*React:*
+    * ***Beach Resosrt*** - [Website](https://antonvasilenko00.github.io/react-beach-resort/#/) - [Github Repository](https://github.com/AntonVasilenko00/react-beach-resort)
     * ***Image Gallery*** - [Website](https://antonvasilenko00.github.io/react-tailwind-img-gallery/) - [Github Repository](https://github.com/AntonVasilenko00/react-tailwind-img-gallery)
     * ***Weather App*** - [Website](https://antonvasilenko00.github.io/weather-app/) - [Github Repository](https://github.com/AntonVasilenko00/weather-app)
     * ***Photo-Filter editor*** - [Github Repository](https://github.com/AntonVasilenko00/photo-editor)
