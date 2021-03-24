@@ -35,6 +35,7 @@
   - *For RSSchool*
     * ***CV*** - [Website](https://antonvasilenko00.github.io/rsschool-cv/)
     * ***Wildlife*** - [Website](https://antonvasilenko00-wildlife.netlify.app/)
+    * * ***Virtual-piano*** - [Website](https://rolling-scopes-school.github.io/antonvasilenko00-JSFE2021Q1/virtual-piano/)
   - ...will be more projects soon...
 
 </details>
