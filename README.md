@@ -18,6 +18,13 @@
   - SCSS, MaterialUI, BEM, Jest, Webpack
 </details>
 
+<details open>
+<summary>Sertificates</summary>
+  RS Schoold Short Track JS: https://app.rs.school/certificate/zhyovmi5
+  
+  Cambridge English FCE: score 182 (C1)
+</details>
+
 
 <details open>
   
