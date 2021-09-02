@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <i>Anton Vasilenko</i></h1>
-<h3 align="center">I'm a Front End Developer, passionate about technologies</h3>
+<h3 align="center">I'm a Fullstack JS Software engineer, passionate about technologies</h3>
 
 <details open>
 <summary> 🤝🏻 &nbsp;Contact Me: </summary>
@@ -12,15 +12,16 @@
 <details open>
 <summary> 🛠 &nbsp;Tech Stack </summary>
 
-  - HTML, CSS/SCSS, JavaScript
-  - BEM methodology
-  - React
+  - React,Redux,Typescript
+  - Node.js, Express.js, Nest.js
+  - MongoDB, Mongoose, PostgreSQL, Typeorm
+  - SCSS, MaterialUI, BEM, Jest, Webpack
 </details>
 
 
 <details open>
   
-<summary>💼Projects: </summary>
+<summary>💼Projects: (old)</summary>
   
   - ⚛️*React:*
     * ***Beach Resosrt*** - [Website](https://antonvasilenko00.github.io/react-beach-resort/#/) - [Github Repository](https://github.com/AntonVasilenko00/react-beach-resort)
