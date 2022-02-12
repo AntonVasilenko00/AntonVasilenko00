@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm <i>Anton Vasilenko</i></h1>
+<br/>
 <h2 align="center">I'm a Fullstack JS Software engineer, passionate about technologies</h2>
 <h3 align="center">I currenlty work at iTechArt as a Fullstak JS developer</h3>
 
